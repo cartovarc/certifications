@@ -1,2 +1,4 @@
-# certifications
-My certifications
+# Certifications :star:
+
+## Infraestrucuture as Code
+- Terraform for Beginners
