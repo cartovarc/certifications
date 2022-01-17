@@ -1,4 +1,5 @@
 # Certifications :star:
 
 ## Infraestrucuture as Code
-- Terraform for Beginners
+- Terraform for Beginners KodeKloud
+- Hashicorp Certified Terraform Associate KodeKloud
